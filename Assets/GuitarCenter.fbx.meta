@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: a50668b846f75544cb5c6f7aeaa174df
+ModelImporter:
+  serializedVersion: 24300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC Base
+    second: {fileID: 2100000, guid: be2bd0fe34c95834c9c1d8246e8b1d4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC Grey
+    second: {fileID: 2100000, guid: ebe17eacc26759e45a5ad73cc6f5a179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC Grille
+    second: {fileID: 2100000, guid: 780cd3aae12bb6b4b809b3cc958be495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC LED
+    second: {fileID: 2100000, guid: 4900ddad5d3a58e46811084f3e5b947a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC Metal
+    second: {fileID: 2100000, guid: 7ec2c9ab1934eba4d9296e568cb77bd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC White
+    second: {fileID: 2100000, guid: f40c513ba39c7d14c995496b9078a322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AcousticBody1
+    second: {fileID: 2100000, guid: e2e8779dfb98e5c4d854fc6f2b0d8f74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AcousticBody2
+    second: {fileID: 2100000, guid: 92c8fb55f8ebf284481bdb71842bb9b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AcousticBody3
+    second: {fileID: 2100000, guid: 85b673b11327e064b9f34244f929eea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AcousticHole
+    second: {fileID: 2100000, guid: fe0923eb0be6553469c4dc27046d82f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AcousticHole.001
+    second: {fileID: 2100000, guid: 3ae61508fff03d14db9fc9c0106616a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AcousticHole.002
+    second: {fileID: 2100000, guid: f83d49e2f411821468a8d4c528936329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmpBody
+    second: {fileID: 2100000, guid: 849a71ccf23a52b4695d920838fc381a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmpMetal
+    second: {fileID: 2100000, guid: 7bf3c67c22c81684eacca14bdb0ff6ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmpPanel
+    second: {fileID: 2100000, guid: 7d6518126239391408f9392d5eb4c220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AmpSpeaker
+    second: {fileID: 2100000, guid: 5696a25e2ee0b534ba7177fa091edd72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlueEffect
+    second: {fileID: 2100000, guid: c412556c77b19594098b5268fa737fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet Blue
+    second: {fileID: 2100000, guid: d705085061137f84abe784916c30c01d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet Green
+    second: {fileID: 2100000, guid: 0f064acef2f4a7d4daf9e73b14bc91cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet Red.001
+    second: {fileID: 2100000, guid: 1493a5b610cff2b43b0e0a13366faff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Floor
+    second: {fileID: 2100000, guid: 45ef825edafcaa5449e6e5363c9e9147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Trim
+    second: {fileID: 2100000, guid: 232c5cd490e1fa844ae792c979053c08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Trim.005
+    second: {fileID: 2100000, guid: 440fd900364059b499f21a217e433782, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Trim.006
+    second: {fileID: 2100000, guid: 0042654b660f658468cb6c2bf06a19b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Trim.007
+    second: {fileID: 2100000, guid: e6e7687f727460140b054e94043a4421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Wall
+    second: {fileID: 2100000, guid: 3b352449f4b70a24cb1d55f8b4ef93c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EffectButton
+    second: {fileID: 2100000, guid: a036859d412373f4893c668009d939c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EffectButton.001
+    second: {fileID: 2100000, guid: a277963fbbca2894d91556096db84906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EffectButton.002
+    second: {fileID: 2100000, guid: 4af99eac96381c146a68e3d4d353cef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EffectKnob
+    second: {fileID: 2100000, guid: 6ca929b5951c0ac458921601b48dc490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EffectKnob.001
+    second: {fileID: 2100000, guid: e60d52bf48ed4844d8b1ee22ebe27f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EffectKnob.002
+    second: {fileID: 2100000, guid: e05a0abe448a11d4091848261748a138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Wood
+    second: {fileID: 2100000, guid: 2ca7163f4ef49bb4a9f9bc91817c2e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Wood.005
+    second: {fileID: 2100000, guid: 0c35daf8f465cc946b590c41ed95193e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Wood.006
+    second: {fileID: 2100000, guid: f977d7dfe4d7cea468b35877b8668cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Wood.007
+    second: {fileID: 2100000, guid: 527fd8c5a9b962e4d92580d0a2a9afa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 7d715cb724ea3e541ad94d9126280d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Guitar Red
+    second: {fileID: 2100000, guid: 42a6333dcb30fe746813d53d94f2cfb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuitarNeck.001
+    second: {fileID: 2100000, guid: 4f3e56b9ccd7ab54bb66c199d1dcf275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuitarNeck.002
+    second: {fileID: 2100000, guid: 4a5a21c4fde0b6d4aa893bc829f67c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LEDRed
+    second: {fileID: 2100000, guid: c72e90a50f5255b4faf0c38df99737be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp Glow
+    second: {fileID: 2100000, guid: 55e43457be90b96478350842a1abe457, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp Trim
+    second: {fileID: 2100000, guid: 40540982839b46a47ab2f45a06bc6059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulAccent
+    second: {fileID: 2100000, guid: 95ca548e37829184f91acf11e67acad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulBody
+    second: {fileID: 2100000, guid: 6815a97622021894fa99dcec0249a6ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulNeck
+    second: {fileID: 2100000, guid: c0820a7b8a8435e4298f2b7815da0b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulPickups
+    second: {fileID: 2100000, guid: 5c85b42d23174bb43a703a85808dd1c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulPickups.001
+    second: {fileID: 2100000, guid: 7c7c738e5a791a74baaed37531c1dbb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulPickups.002
+    second: {fileID: 2100000, guid: 7cc70163b8bfa6b4680e123339cbb2a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulPickups.003
+    second: {fileID: 2100000, guid: 8e62c70988ac0d543a44f1d419e0f59a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LesPaulPickups.004
+    second: {fileID: 2100000, guid: d99c9064380319c4dbd520002255dce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal AC
+    second: {fileID: 2100000, guid: 70ae1285ad8e1b64484de5ec00fa8a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrangeEffect
+    second: {fileID: 2100000, guid: d9d4dc7b960c2294699038601093f106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PedalLED.001
+    second: {fileID: 2100000, guid: 4ee0ffc42a18c624ea4883ba068762ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PedalLED.002
+    second: {fileID: 2100000, guid: 79683bc137ce60141b725e605442cc20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pickguard
+    second: {fileID: 2100000, guid: bc42bb265b67d4141bf8b14bd024e3ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedEffect
+    second: {fileID: 2100000, guid: 5db0135ee1f444946b8c1a1aa77f051d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Wood
+    second: {fileID: 2100000, guid: c1fab7efbb967d04da36ca710dbbf96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign Red
+    second: {fileID: 2100000, guid: d5bf2212ecf11b345a57e9c701fef810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StratBody
+    second: {fileID: 2100000, guid: 5bf29a770a81c1f4f8e114b706faf9d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StratHead
+    second: {fileID: 2100000, guid: 7c34c0a4d2fef004dae09b3368ab7e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StratNeck
+    second: {fileID: 2100000, guid: 228e183297c50044d97a24c814e3a232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StratPickup
+    second: {fileID: 2100000, guid: 71e9e5c88f8172b4f8f4d49f4783c189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StratPickup.001
+    second: {fileID: 2100000, guid: 166184c6e9c536345b39b3b4eb50af28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StratPickup.002
+    second: {fileID: 2100000, guid: 76422a402632be54bbfe29047b1b5ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Text
+    second: {fileID: 2100000, guid: f788e0c8485746d44a82ff8e720eaa76, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
